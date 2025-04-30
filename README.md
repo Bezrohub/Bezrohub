@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bezrohub
-- 👀 I’m interested in programming, games, music... art!
-- 🌱 I’m currently learning Portugol, html and java soon!
+- 👀 I’m interested in programming, games, music...
+- 🌱 I’m currently learning java
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her ela/dela
